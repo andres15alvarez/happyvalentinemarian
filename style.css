@@ -64,6 +64,7 @@ body {
 .flowers {
   position: fixed;
   transform: scale(0.9);
+  bottom: 15%;
 }
 
 .flower {
